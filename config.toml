@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "image.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "michael.pagan@nih.gov"
+  email = "pagan.michael51@gmail.com"
   address = "5635 Fishers Lane, Rockville, MD 20852"
   phone = "301-480-2236"
 
@@ -215,12 +215,7 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "pagan.michael51@gmail.com"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
-
+    
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
@@ -230,7 +225,6 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/michael-pagan"
-
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
